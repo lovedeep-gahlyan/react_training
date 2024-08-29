@@ -1,0 +1,18 @@
+.autocomplete {
+  width: 500px;
+  margin: auto;
+}
+.textinput {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.dropdown {
+  width: 100%;
+  text-align: start;
+}
+
+.selected {
+  background-color: yellow;
+  color: green;
+}
